@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-UtilitiesTests/Pods-UtilitiesTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CleanroomLogger/CleanroomLogger.framework
+${BUILT_PRODUCTS_DIR}/GCDWebServer/GCDWebServer.framework
+${BUILT_PRODUCTS_DIR}/PromiseKit/PromiseKit.framework

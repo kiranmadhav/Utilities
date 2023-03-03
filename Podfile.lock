@@ -1,0 +1,43 @@
+PODS:
+  - CleanroomLogger (1.0.0)
+  - GCDWebServer (3.5.4):
+    - GCDWebServer/Core (= 3.5.4)
+  - GCDWebServer/Core (3.5.4)
+  - PromiseKit (6.10.0):
+    - PromiseKit/CorePromise (= 6.10.0)
+    - PromiseKit/Foundation (= 6.10.0)
+    - PromiseKit/UIKit (= 6.10.0)
+  - PromiseKit/CorePromise (6.10.0)
+  - PromiseKit/Foundation (6.10.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.10.0):
+    - PromiseKit/CorePromise
+
+DEPENDENCIES:
+  - CleanroomLogger (from `https://github.com/kiranmadhav/CleanroomLoggerClone.git`, tag `1.0.0`)
+  - GCDWebServer (~> 3.0)
+  - PromiseKit (~> 6.10.0)
+
+SPEC REPOS:
+  trunk:
+    - GCDWebServer
+    - PromiseKit
+
+EXTERNAL SOURCES:
+  CleanroomLogger:
+    :git: https://github.com/kiranmadhav/CleanroomLoggerClone.git
+    :tag: 1.0.0
+
+CHECKOUT OPTIONS:
+  CleanroomLogger:
+    :git: https://github.com/kiranmadhav/CleanroomLoggerClone.git
+    :tag: 1.0.0
+
+SPEC CHECKSUMS:
+  CleanroomLogger: bfd6b5c51af2e071ca46a6235ff9cf5f9006d326
+  GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
+  PromiseKit: 1fdaeb6c0a94a5114fcb814ff3d772b86886ad4e
+
+PODFILE CHECKSUM: 2cc24b7096f7120c174e81941d7ca1aa8f54d3f9
+
+COCOAPODS: 1.12.0

@@ -1,0 +1,22 @@
+{
+  "pins" : [
+    {
+      "identity" : "cleanroomlogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/emaloney/CleanroomLogger.git",
+      "state" : {
+        "revision" : "d732baead85b77471505daf290212700b9d87a05"
+      }
+    },
+    {
+      "identity" : "gcdwebserver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SlaunchaMan/GCDWebServer.git",
+      "state" : {
+        "branch" : "swift-package-manager",
+        "revision" : "935e2736044e71e5341663c3cc9a335ba6867a2b"
+      }
+    }
+  ],
+  "version" : 2
+}
