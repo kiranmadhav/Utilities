@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'Utilities'
-  s.version          = '1.0.7'
+  s.name             = 'UtilitiesTest'
+  s.version          = '1.0.8'
   s.summary          = 'Utilities provides an extensible Swift-based logging API that is simple, lightweight and performant.'
   s.homepage         = 'https://github.com/kiranmadhav/Utilities'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
